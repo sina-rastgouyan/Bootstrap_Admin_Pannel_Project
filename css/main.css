@@ -124,6 +124,10 @@ body {
     -o-transform: translateY(-1px);
 }
 
+.task-border {
+    border-right: 3px solid #f66436;
+}
+
 /* Default Styles */
 .my-default-button-style {
     text-decoration: none;
